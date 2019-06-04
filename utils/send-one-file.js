@@ -1,4 +1,4 @@
-'use strict'
+ 'use strict'
 
 const SendOneFileMultipleResults = require('./send-one-file-multiple-results')
 

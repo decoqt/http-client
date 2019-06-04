@@ -37,6 +37,7 @@ function requireCommands () {
     // Network
     bootstrap: require('../bootstrap'),
     dht: require('../dht'),
+    lfs: require('../lfs'),
     name: require('../name'),
     ping: require('../ping'),
     pingReadableStream: require('../ping-readable-stream'),
