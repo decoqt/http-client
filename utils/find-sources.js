@@ -10,10 +10,8 @@ module.exports = (args) => {
   }
 
   if (args.length === 1 && Array.isArray(args[0])) {
-    // support ipfs.file.cp([src, dest], opts, cb)
     sources = args[0]
   } else {
-    // support ipfs.file.cp(src, dest, opts, cb) and ipfs.file.cp(src1, src2, dest, opts, cb)
     sources = args
   }
 

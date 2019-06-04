@@ -117,7 +117,6 @@ function requestAPI (config, options, callback) {
 
   if (options.qs.r) {
     options.qs.recursive = options.qs.r
-    // From IPFS 0.4.0, it throws an error when both r and recursive are passed
     delete options.qs.r
   }
 

@@ -25,11 +25,9 @@ module.exports = (send) => {
 }
 
 function parsePeersResponse (verbose, response) {
-  // go-ipfs <= 0.4.4
   if (Array.isArray(response.Strings)) {
     return response.Strings.map(parseLegacyPeer.bind(null, verbose))
   }
-  // go-ipfs >= 0.4.5
   if (Array.isArray(response.Peers)) {
     return response.Peers.map(parsePeer.bind(null, verbose))
   }

@@ -1,7 +1,6 @@
 'use strict'
 /* global self */
 
-const isIPFS = require('is-ipfs')
 const { Buffer } = require('buffer')
 const CID = require('cids')
 const multiaddr = require('multiaddr')
@@ -14,7 +13,7 @@ const loadCommands = require('./utils/load-commands')
 const getConfig = require('./utils/default-config')
 const sendRequest = require('./utils/send-request')
 
-function ipfsClient (hostOrMultiaddr, port, userOptions) {
+function mefsClient (hostOrMultiaddr, port, userOptions) {
   // convert all three params to objects that we can merge.
   let options = {}
 
@@ -71,6 +70,6 @@ function urlToOptions (url) {
   }
 }
 
-module.exports = ipfsClient
+module.exports = mefsClient
 
-Object.assign(module.exports, { isIPFS, Buffer, CID, multiaddr, multibase, multicodec, multihash, PeerId, PeerInfo })
+Object.assign(module.exports, { Buffer, CID, multiaddr, multibase, multicodec, multihash, PeerId, PeerInfo })

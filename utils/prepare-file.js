@@ -102,7 +102,7 @@ function contentToStream (content) {
     return content
   }
 
-  throw new Error(`Input not supported. Expected Buffer|ReadableStream|PullStream|File got ${kindOf(content)}. Check the documentation for more info https://github.com/ipfs/interface-js-ipfs-core/blob/master/SPEC/FILES.md#add`)
+  throw new Error(`Input not supported. Expected Buffer|ReadableStream|PullStream|File got ${kindOf(content)}. Check the documentation for more info `)
 }
 
 function prepareFile (file, opts) {

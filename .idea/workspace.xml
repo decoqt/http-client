@@ -2,88 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce0de186-bda0-4b80-b66a-6bb95364da25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bitswap/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitswap/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitswap/unwant.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bitswap/wantlist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/put.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/block/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dag/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dag/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dag/put.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/cp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/flush.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/ls-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/ls-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/ls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/mkdir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/mv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/read-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/read-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/read.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/rm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-mfs/write.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/add-from-fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/add-from-url.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/add-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/add-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/cat-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/cat-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/cat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/get-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/get-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/ls-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/ls-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/ls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs-local-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs-local-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs-local.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs-pull-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs-readable-stream.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files-regular/refs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/export.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/gen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/import.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/rename.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/key/rm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mount.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/publish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/pubsub/cancel.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/pubsub/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/pubsub/state.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/pubsub/subs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name/resolve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/addLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/appendData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/get.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/links.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/put.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/rmLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/setData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/object/stat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pin/add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pin/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pin/ls.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pin/rm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubsub.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resolve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swarm/peers.js" beforeDir="false" afterPath="$PROJECT_DIR$/swarm/peers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/clean-multihash.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/clean-multihash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/find-sources.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/find-sources.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/load-commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/load-commands.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/send-files-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/send-files-stream.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/send-one-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/send-one-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/ping-message-converter.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/ping-message-converter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/prepare-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/prepare-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/pubsub-message-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pubsub-message-stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/send-request.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/send-request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/stringlist-to-array.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/stringlist-to-array.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,64 +25,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lfs/put_object_from_stream.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lfs/put_object_from_file_system.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="28" column="58" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lfs/get_object.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="79" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lfs/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-639">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+            <state relative-caret-position="1278">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../testKill.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/utils/send-one-file-multiple-results.js">
+        <entry file="file://$PROJECT_DIR$/../../../testShowBalance.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="126">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils/send-files-stream.js">
+        <entry file="file://$PROJECT_DIR$/../../../testShowStorage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="80" selection-start-line="80" selection-end-line="80" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../testStart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../testPutObjectFromStream.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -163,10 +82,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>swarm</find>
       <find>stream-channels</find>
       <find>stream</find>
+      <find>log</find>
+      <find>IPFS</find>
       <find>ipfs</find>
+      <find>isIPFS</find>
+      <find>swarm</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -175,9 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/utils/load-commands.js" />
-        <option value="$PROJECT_DIR$/swarm/addrs.js" />
-        <option value="$PROJECT_DIR$/../../../test.js" />
         <option value="$PROJECT_DIR$/lfs/list_buckets.js" />
         <option value="$PROJECT_DIR$/lfs/create_bucket.js" />
         <option value="$PROJECT_DIR$/lfs/delete_bucket.js" />
@@ -190,34 +109,45 @@
         <option value="$PROJECT_DIR$/lfs/list_providers.js" />
         <option value="$PROJECT_DIR$/lfs/fsync.js" />
         <option value="$PROJECT_DIR$/lfs/head_object.js" />
-        <option value="$PROJECT_DIR$/../../../testHeadObject.js" />
-        <option value="$PROJECT_DIR$/../../../testHeadBucket.js" />
-        <option value="$PROJECT_DIR$/../../../testFsync.js" />
-        <option value="$PROJECT_DIR$/../../../testDeleteBucket.js" />
-        <option value="$PROJECT_DIR$/../../../testCreateBucket.js" />
-        <option value="$PROJECT_DIR$/../../../testShowStorage.js" />
-        <option value="$PROJECT_DIR$/../../../testShowBalance.js" />
-        <option value="$PROJECT_DIR$/../../../testListProviders.js" />
-        <option value="$PROJECT_DIR$/../../../testListKeepers.js" />
         <option value="$PROJECT_DIR$/lfs/delete_object.js" />
-        <option value="$PROJECT_DIR$/../../../testDeleteObject.js" />
         <option value="$PROJECT_DIR$/lfs/start.js" />
-        <option value="$PROJECT_DIR$/../../../testStart.js" />
         <option value="$PROJECT_DIR$/lfs/kill.js" />
-        <option value="$PROJECT_DIR$/../../../testKill.js" />
         <option value="$PROJECT_DIR$/block/get.js" />
         <option value="$PROJECT_DIR$/utils/send-one-file.js" />
-        <option value="$PROJECT_DIR$/utils/send-request.js" />
-        <option value="$PROJECT_DIR$/../../../testListBuckets.js" />
         <option value="$PROJECT_DIR$/lfs/get_object.js" />
-        <option value="$PROJECT_DIR$/../../../testListObjects.js" />
-        <option value="$PROJECT_DIR$/../../../testGetObject.js" />
         <option value="$PROJECT_DIR$/utils/send-one-file-multiple-results.js" />
         <option value="$PROJECT_DIR$/utils/send-files-stream.js" />
         <option value="$PROJECT_DIR$/lfs/put_object.js" />
         <option value="$PROJECT_DIR$/../../../testPutObject.js" />
         <option value="$PROJECT_DIR$/lfs/index.js" />
         <option value="$PROJECT_DIR$/lfs/put_object_from_stream.js" />
+        <option value="$PROJECT_DIR$/swarm/peers.js" />
+        <option value="$PROJECT_DIR$/utils/find-sources.js" />
+        <option value="$PROJECT_DIR$/utils/ping-message-converter.js" />
+        <option value="$PROJECT_DIR$/utils/send-request.js" />
+        <option value="$PROJECT_DIR$/utils/stringlist-to-array.js" />
+        <option value="$PROJECT_DIR$/utils/pubsub-message-stream.js" />
+        <option value="$PROJECT_DIR$/utils/clean-multihash.js" />
+        <option value="$PROJECT_DIR$/utils/prepare-file.js" />
+        <option value="$PROJECT_DIR$/utils/load-commands.js" />
+        <option value="$PROJECT_DIR$/../../../testDeleteBucket.js" />
+        <option value="$PROJECT_DIR$/../../../testListBuckets.js" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/../../../testDeleteObject.js" />
+        <option value="$PROJECT_DIR$/../../../testCreateBucket.js" />
+        <option value="$PROJECT_DIR$/../../../testFsync.js" />
+        <option value="$PROJECT_DIR$/../../../testGetObject.js" />
+        <option value="$PROJECT_DIR$/../../../testHeadBucket.js" />
+        <option value="$PROJECT_DIR$/../../../testHeadObject.js" />
+        <option value="$PROJECT_DIR$/../../../testKill.js" />
+        <option value="$PROJECT_DIR$/../../../testListKeepers.js" />
+        <option value="$PROJECT_DIR$/../../../testListObjects.js" />
+        <option value="$PROJECT_DIR$/../../../testListProviders.js" />
+        <option value="$PROJECT_DIR$/../../../testPutObjectFromStream.js" />
+        <option value="$PROJECT_DIR$/../../../testShowBalance.js" />
+        <option value="$PROJECT_DIR$/../../../testShowStorage.js" />
+        <option value="$PROJECT_DIR$/../../../testPutObjectFromFileSystem.js" />
+        <option value="$PROJECT_DIR$/../../../testStart.js" />
       </list>
     </option>
   </component>
@@ -232,9 +162,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="36" />
-    <option name="width" value="1776" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="width" value="1775" />
     <option name="height" value="1012" />
   </component>
   <component name="ProjectView">
@@ -250,11 +180,6 @@
               <item name="src" type="b2602c69:ProjectViewProjectNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lfs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -264,6 +189,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
@@ -315,18 +241,18 @@
       <workItem from="1559268094907" duration="18124000" />
       <workItem from="1559527101428" duration="16550000" />
       <workItem from="1559559590095" duration="1790000" />
-      <workItem from="1559561427844" duration="7219000" />
+      <workItem from="1559561427844" duration="10444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48426000" />
+    <option name="totallyTimeSpent" value="51651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="36" y="0" width="1776" height="1012" extended-state="1" />
+    <frame x="37" y="0" width="1775" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13535589" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13543491" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -360,134 +286,7 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/../../../testListBuckets.js</url>
-          <line>2</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../testCreateBucket.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testShowStorage.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testShowBalance.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testListProviders.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testListKeepers.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/delete_object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/list_objects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testListObjects - 副本.js" />
-    <entry file="file://$PROJECT_DIR$/../../../testDeleteObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testStart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/start.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/kill.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testKill.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files-regular/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testHeadObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files-regular/get-pull-stream.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files-regular/get-readable-stream.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block/get.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dht/get.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/send-one-file.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/tar-stream-to-objects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/files-regular/get.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
@@ -495,27 +294,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testDeleteBucket.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/stream-to-value.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testGetObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testListObjects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -533,31 +315,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../testListBuckets.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/load-commands.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/default-config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/send-request.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="749">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
@@ -616,20 +377,6 @@
         <state relative-caret-position="-972" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-639">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../ipfs-utils/src/files/add-input-validation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -641,13 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
           <caret line="55" lean-forward="true" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lfs/get_object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="79" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -665,6 +405,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lfs/get_object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/send-one-file-multiple-results.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lfs/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/ping-message-converter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/pubsub-message-stream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/utils/send-files-stream.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -672,10 +447,192 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/send-one-file-multiple-results.js">
+    <entry file="file://$PROJECT_DIR$/utils/stringlist-to-array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/clean-multihash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/send-request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/prepare-file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="112" column="35" lean-forward="true" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="292" selection-start-line="286" selection-end-line="292" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/load-commands.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/find-sources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swarm/peers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es2015.core.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="274" column="7" lean-forward="true" selection-start-line="274" selection-start-column="7" selection-end-line="274" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testDeleteBucket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testDeleteObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testGetObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testHeadBucket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testListBuckets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testHeadObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testCreateBucket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testFsync.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testListObjects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testListProviders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testListKeepers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testKill.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testPutObjectFromFileSystem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testPutObjectFromStream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testShowStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../testShowBalance.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>

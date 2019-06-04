@@ -16,7 +16,6 @@ class PubsubMessageStream extends TransformStream {
   }
 
   _transform (obj, enc, callback) {
-    // go-ipfs returns '{}' as the very first object atm, we skip that
     if (Object.keys(obj).length === 0) {
       return callback()
     }
